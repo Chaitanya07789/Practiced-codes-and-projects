@@ -1,0 +1,1 @@
+s2 = Student("Ram",25)
